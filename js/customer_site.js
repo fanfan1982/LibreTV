@@ -1,4 +1,4 @@
-const CUSTOMER_SITES = {
+const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
@@ -92,6 +92,7 @@ const CUSTOMER_SITES = {
         name: '量子资源站'
     },
        }
+};
 
 // 调用全局方法合并
 if (window.extendAPISites) {
