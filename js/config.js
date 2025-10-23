@@ -1,4 +1,5 @@
-    const CUSTOMER_SITES = {
+ {
+    const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
@@ -91,5 +92,5 @@
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-       }
-    
+  }
+};
