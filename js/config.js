@@ -20,7 +20,7 @@ const SITE_CONFIG = {
 };
 
 // API站点配置
-const API_SITES = {
+API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com',
         name: '电影天堂资源',
